@@ -1,0 +1,1 @@
+datos=readOGR("C:/Users/ADMIN/Desktop/charo/db.shp")
